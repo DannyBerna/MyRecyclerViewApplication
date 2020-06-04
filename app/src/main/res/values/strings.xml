@@ -1,0 +1,4 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">MyRecyclerViewApplication</string>
+    <string name="title" tools:ignore="DuplicateDefinition">Title</string>
+     </resources>
